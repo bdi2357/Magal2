@@ -1,0 +1,42 @@
+AAPL,bid: 170.34
+10
+AAPL,ask:170.7
+3
+10
+3
+AAPL,bid: 170.34
+10
+AAPL,ask:170.7
+3
+10
+3
+AAPL,bid: 170.34
+10
+AAPL,ask:170.7
+3
+10
+3
+AAPL,bid: 170.34
+10
+AAPL,ask:170.7
+3
+1
+10
+3
+1
+AAPL,bid: 170.34
+10
+AAPL,ask:170.7
+3
+10
+3
+6671
+AAPL,bid: 170.34
+10
+AAPL,ask:170.7
+3
+10
+3
+AAPL,ask:170.49
+1
+1

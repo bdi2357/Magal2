@@ -1,0 +1,44 @@
+ATUS,bid: 19.98
+8
+ATUS,ask:19.99
+6
+8
+6
+8599
+ATUS,bid: 19.98
+8
+ATUS,ask:19.99
+6
+8
+6
+8599
+ATUS,bid: 19.98
+8
+ATUS,ask:19.99
+6
+8
+6
+8599
+ATUS,bid: 19.98
+8
+ATUS,ask:19.99
+6
+8
+6
+1
+8599
+ATUS,bid: 19.98
+8
+ATUS,ask:19.99
+6
+8
+6
+8600
+10
+5
+ATUS,bid: 19.97
+12
+ATUS,ask:19.98
+2
+12
+2

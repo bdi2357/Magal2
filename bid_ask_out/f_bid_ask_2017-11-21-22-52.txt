@@ -1,0 +1,181 @@
+
+
+[('tickerId', 1002), ('field', 8), ('size', 198012)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+**************************************************
+AAPL:False: bid: 173.07
+
+
+[('tickerId', 1002), ('field', 0), ('size', 9)]
+**************************************************
+AAPL:False: ask: 173.08
+
+
+[('tickerId', 1002), ('field', 3), ('size', 6)]
+
+
+[('tickerId', 1002), ('field', 0), ('size', 9)]
+
+
+[('tickerId', 1002), ('field', 3), ('size', 6)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 2)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 2)]
+
+
+[('tickerId', 1002), ('field', 8), ('size', 483335)]
+**************************************************
+SPY:False: bid: 259.88
+
+
+[('tickerId', 1002), ('field', 0), ('size', 84)]
+**************************************************
+SPY:False: ask: 259.89
+
+
+[('tickerId', 1002), ('field', 3), ('size', 60)]
+
+
+[('tickerId', 1002), ('field', 0), ('size', 84)]
+
+
+[('tickerId', 1002), ('field', 3), ('size', 60)]
+
+
+[('tickerId', 1002), ('field', 8), ('size', 4679)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+**************************************************
+GOOG:False: bid: 1033.96
+
+
+[('tickerId', 1002), ('field', 0), ('size', 1)]
+**************************************************
+GOOG:False: ask: 1034.25
+
+
+[('tickerId', 1002), ('field', 3), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 0), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 3), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 8), ('size', 47138)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+**************************************************
+BSX:False: bid: 28.79
+
+
+[('tickerId', 1002), ('field', 0), ('size', 181)]
+**************************************************
+BSX:False: ask: 28.8
+
+
+[('tickerId', 1002), ('field', 3), ('size', 132)]
+
+
+[('tickerId', 1002), ('field', 0), ('size', 181)]
+
+
+[('tickerId', 1002), ('field', 3), ('size', 132)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 8), ('size', 13192)]
+**************************************************
+BA:False: bid: 266.8
+
+
+[('tickerId', 1002), ('field', 0), ('size', 3)]
+**************************************************
+BA:False: ask: 266.82
+
+
+[('tickerId', 1002), ('field', 3), ('size', 4)]
+
+
+[('tickerId', 1002), ('field', 0), ('size', 3)]
+
+
+[('tickerId', 1002), ('field', 3), ('size', 4)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 8), ('size', 341465)]
+**************************************************
+BAC:False: bid: 26.74
+
+
+[('tickerId', 1002), ('field', 0), ('size', 1501)]
+**************************************************
+BAC:False: ask: 26.75
+
+
+[('tickerId', 1002), ('field', 3), ('size', 2696)]
+
+
+[('tickerId', 1002), ('field', 0), ('size', 1501)]
+
+
+[('tickerId', 1002), ('field', 3), ('size', 2696)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 6)]
+
+
+[('tickerId', 1002), ('field', 8), ('size', 341471)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+
+[('tickerId', 1002), ('field', 8), ('size', 24282)]
+**************************************************
+JNJ:False: bid: 138.43
+
+
+[('tickerId', 1002), ('field', 0), ('size', 22)]
+**************************************************
+JNJ:False: ask: 138.44
+
+
+[('tickerId', 1002), ('field', 3), ('size', 48)]
+
+
+[('tickerId', 1002), ('field', 0), ('size', 22)]
+
+
+[('tickerId', 1002), ('field', 3), ('size', 48)]

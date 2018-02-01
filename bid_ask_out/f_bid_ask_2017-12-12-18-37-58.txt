@@ -1,0 +1,39 @@
+MARA,bid: 6.3
+53
+MARA,ask:6.35
+10
+53
+10
+MARA,bid: 6.3
+53
+MARA,ask:6.35
+10
+53
+10
+MARA,bid: 6.3
+53
+MARA,ask:6.35
+10
+53
+10
+MARA,bid: 6.3
+53
+MARA,ask:6.35
+10
+8
+53
+10
+8
+MARA,bid: 6.3
+53
+MARA,ask:6.35
+10
+53
+10
+97933
+MARA,bid: 6.3
+53
+MARA,ask:6.35
+10
+53
+10

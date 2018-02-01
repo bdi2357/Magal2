@@ -1,0 +1,5 @@
+Ticker,bid/ask,price_changes_counter,positive_changes_counter,negative_changes_counter,unchanged_counter
+BSX,bid,0,0,0,4
+BSX,ask,0,0,0,4
+BA,bid,6,1,5,1
+BA,ask,6,1,5,1

@@ -1,0 +1,45 @@
+
+
+[('tickerId', 1002), ('field', 8), ('size', 116448)]
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]**************************************************
+AAPL:False: bid: 173.47
+
+[('tickerId', 1002), ('field', 0), ('size', 1)]**************************************************
+AAPL:False: ask: 173.48
+
+[('tickerId', 1002), ('field', 3), ('size', 4)]
+
+[('tickerId', 1002), ('field', 0), ('size', 1)]
+
+[('tickerId', 1002), ('field', 3), ('size', 4)]
+
+[('tickerId', 1002), ('field', 8), ('size', 116449)]
+
+[('tickerId', 1002), ('field', 3), ('size', 3)]**************************************************
+SPY:False: bid: 259.93
+
+[('tickerId', 1002), ('field', 0), ('size', 77)]**************************************************
+SPY:False: ask: 259.95
+
+[('tickerId', 1002), ('field', 3), ('size', 59)]
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+[('tickerId', 1002), ('field', 0), ('size', 77)]
+
+[('tickerId', 1002), ('field', 3), ('size', 59)]
+
+[('tickerId', 1002), ('field', 5), ('size', 1)]
+
+[('tickerId', 1002), ('field', 8), ('size', 172509)]
+
+[('tickerId', 1002), ('field', 3), ('size', 54)]
+
+[('tickerId', 1002), ('field', 3), ('size', 64)]
+
+[('tickerId', 1002), ('field', 0), ('size', 66)]
+
+[('tickerId', 1002), ('field', 3), ('size', 76)]

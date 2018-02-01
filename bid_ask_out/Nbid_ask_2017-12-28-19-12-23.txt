@@ -1,0 +1,28 @@
+{'accountsList': 'U2251402'}
+{'orderId': 1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:hfarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:eufarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:jfarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:usfuture', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:cashfarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:usfarm.us', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:usfarm', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:ilhmds', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:euhmds', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:cashhmds', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:fundfarm', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:ushmds', 'id': -1}
+{'price': 156.8, 'marketMaker': 'NSDQ', 'position': 0, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 73}
+{'price': 156.79, 'marketMaker': 'NSDQ', 'position': 1, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 35}
+{'price': 156.78, 'marketMaker': 'NSDQ', 'position': 2, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 55}
+{'price': 156.78, 'marketMaker': 'SBSH', 'position': 3, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 1}
+{'price': 156.77, 'marketMaker': 'NSDQ', 'position': 4, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 69}
+{'price': 156.76, 'marketMaker': 'NSDQ', 'position': 5, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 63}
+{'price': 156.75, 'marketMaker': 'NSDQ', 'position': 6, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 71}
+{'price': 156.81, 'marketMaker': 'NSDQ', 'position': 0, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 15}
+{'price': 156.82, 'marketMaker': 'NSDQ', 'position': 1, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 36}
+{'price': 156.83, 'marketMaker': 'NSDQ', 'position': 2, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 64}
+{'price': 156.83, 'marketMaker': 'SBSH', 'position': 3, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 1}
+{'price': 156.84, 'marketMaker': 'NSDQ', 'position': 4, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 64}
+{'price': 156.85, 'marketMaker': 'NSDQ', 'position': 5, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 69}
+{'price': 156.86, 'marketMaker': 'NSDQ', 'position': 6, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 77}

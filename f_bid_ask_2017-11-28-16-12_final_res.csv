@@ -1,0 +1,3 @@
+Ticker,bid/ask,price_changes_counter,positive_changes_counter,negative_changes_counter,unchanged_counter
+AAPL,bid,1,0,1,19
+AAPL,ask,0,0,0,20

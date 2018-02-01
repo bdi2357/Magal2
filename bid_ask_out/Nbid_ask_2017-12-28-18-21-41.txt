@@ -1,0 +1,72 @@
+{'accountsList': 'U2251402'}
+{'orderId': 1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:hfarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:eufarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:jfarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:usfuture', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:cashfarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:usfarm.us', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:usfarm', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:ilhmds', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:euhmds', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:cashhmds', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:fundfarm', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:ushmds', 'id': -1}
+{'price': 156.86, 'marketMaker': 'NSDQ', 'position': 0, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 42}
+{'price': 156.85, 'marketMaker': 'NSDQ', 'position': 1, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 24}
+{'price': 156.84, 'marketMaker': 'NSDQ', 'position': 2, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 34}
+{'price': 156.84, 'marketMaker': 'SBSH', 'position': 3, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 1}
+{'price': 156.83, 'marketMaker': 'NSDQ', 'position': 4, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 31}
+{'price': 156.82, 'marketMaker': 'NSDQ', 'position': 5, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 52}
+{'price': 156.81, 'marketMaker': 'NSDQ', 'position': 6, 'tickerId': 1002, 'operation': 0, 'side': 1, 'size': 81}
+{'price': 156.87, 'marketMaker': 'NSDQ', 'position': 0, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 108}
+{'price': 156.88, 'marketMaker': 'NSDQ', 'position': 1, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 75}
+{'price': 156.89, 'marketMaker': 'NSDQ', 'position': 2, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 72}
+{'price': 156.89, 'marketMaker': 'SBSH', 'position': 3, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 1}
+{'price': 156.9, 'marketMaker': 'NSDQ', 'position': 4, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 88}
+{'price': 156.91, 'marketMaker': 'NSDQ', 'position': 5, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 56}
+{'price': 156.92, 'marketMaker': 'NSDQ', 'position': 6, 'tickerId': 1002, 'operation': 0, 'side': 0, 'size': 36}
+{'price': 156.86, 'marketMaker': None, 'position': 0, 'tickerId': 1002, 'operation': 1, 'side': 1, 'size': 40}
+{'price': 156.84, 'marketMaker': None, 'position': 2, 'tickerId': 1002, 'operation': 1, 'side': 1, 'size': 35}
+{'price': 156.87, 'marketMaker': None, 'position': 0, 'tickerId': 1002, 'operation': 1, 'side': 0, 'size': 100}
+{'price': 156.91, 'marketMaker': None, 'position': 5, 'tickerId': 1002, 'operation': 1, 'side': 0, 'size': 57}
+{'accountsList': 'U2251402'}
+{'orderId': 1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:hfarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:eufarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:jfarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:usfuture', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:cashfarm', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:usfarm.us', 'id': -1}
+{'errorCode': 2104, 'errorMsg': 'Market data farm connection is OK:usfarm', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:ilhmds', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:euhmds', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:cashhmds', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:fundfarm', 'id': -1}
+{'errorCode': 2106, 'errorMsg': 'HMDS data farm connection is OK:ushmds', 'id': -1}
+{'tickerId': 1002, 'price': 156.86, 'canAutoExecute': 0, 'field': 4}
+{'tickerId': 1002, 'size': 1, 'field': 5}
+{'tickerId': 1002, 'size': 1, 'field': 5}
+{'tickerId': 1002, 'size': 90215, 'field': 8}
+{'tickerId': 1002, 'price': 157.07, 'canAutoExecute': 0, 'field': 6}
+{'tickerId': 1002, 'price': 156.57, 'canAutoExecute': 0, 'field': 7}
+{'tickerId': 1002, 'price': 156.54, 'canAutoExecute': 0, 'field': 9}
+{'tickerId': 1002, 'price': 157.04, 'canAutoExecute': 0, 'field': 14}
+{'tickerId': 1002, 'value': '1514478102', 'tickType': 45}
+{'tickerId': 1002, 'value': 0.0, 'tickType': 49}
+{'tickerId': 1002, 'price': 156.86, 'canAutoExecute': 1, 'field': 1}
+{'tickerId': 1002, 'size': 39, 'field': 0}
+{'tickerId': 1002, 'price': 156.87, 'canAutoExecute': 1, 'field': 2}
+{'tickerId': 1002, 'size': 100, 'field': 3}
+{'tickerId': 1002, 'price': 156.86, 'canAutoExecute': 0, 'field': 4}
+{'tickerId': 1002, 'size': 1, 'field': 5}
+{'tickerId': 1002, 'size': 39, 'field': 0}
+{'tickerId': 1002, 'size': 100, 'field': 3}
+{'tickerId': 1002, 'size': 1, 'field': 5}
+{'tickerId': 1002, 'size': 90215, 'field': 8}
+{'tickerId': 1002, 'price': 157.07, 'canAutoExecute': 0, 'field': 6}
+{'tickerId': 1002, 'price': 156.57, 'canAutoExecute': 0, 'field': 7}
+{'tickerId': 1002, 'price': 156.54, 'canAutoExecute': 0, 'field': 9}
+{'tickerId': 1002, 'price': 157.04, 'canAutoExecute': 0, 'field': 14}
+{'tickerId': 1002, 'value': '1514478102', 'tickType': 45}
+{'tickerId': 1002, 'value': 0.0, 'tickType': 49}

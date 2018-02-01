@@ -1,0 +1,20 @@
+{'accountsList': 'U2251402'}
+{'orderId': 1}
+{'tickerId': 1002, 'value': '1514909030', 'tickType': 45}
+{'tickerId': 1002, 'price': 157.96, 'canAutoExecute': 0, 'field': 4}
+<tickPrice tickerId=1002, field=4, price=157.96, canAutoExecute=0>
+{'tickerId': 1002, 'size': 1, 'field': 5}
+{'tickerId': 1002, 'size': 1, 'field': 5}
+{'tickerId': 1002, 'size': 122348, 'field': 8}
+{'tickerId': 1002, 'price': 158.01, 'canAutoExecute': 0, 'field': 6}
+{'tickerId': 1002, 'price': 156.17, 'canAutoExecute': 0, 'field': 7}
+{'tickerId': 1002, 'price': 155.76, 'canAutoExecute': 0, 'field': 9}
+{'tickerId': 1002, 'price': 156.5, 'canAutoExecute': 0, 'field': 14}
+{'tickerId': 1002, 'price': 157.95, 'canAutoExecute': 1, 'field': 1}
+<tickPrice tickerId=1002, field=1, price=157.95, canAutoExecute=1>
+{'tickerId': 1002, 'size': 5, 'field': 0}
+{'tickerId': 1002, 'price': 157.96, 'canAutoExecute': 1, 'field': 2}
+<tickPrice tickerId=1002, field=2, price=157.96, canAutoExecute=1>
+{'tickerId': 1002, 'size': 50, 'field': 3}
+{'tickerId': 1002, 'size': 5, 'field': 0}
+{'tickerId': 1002, 'size': 50, 'field': 3}

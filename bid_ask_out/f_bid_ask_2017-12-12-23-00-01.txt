@@ -1,0 +1,41 @@
+MARA,bid: 5.75
+81
+MARA,ask:5.8
+1
+81
+1
+MARA,bid: 5.75
+81
+MARA,ask:5.8
+1
+81
+1
+MARA,bid: 5.75
+81
+MARA,ask:5.8
+1
+81
+1
+MARA,bid: 5.75
+81
+MARA,ask:5.8
+1
+1
+81
+1
+1
+MARA,bid: 5.75
+81
+MARA,ask:5.8
+1
+81
+1
+186620
+MARA,bid: 5.75
+81
+MARA,ask:5.8
+1
+81
+1
+MARA,ask:6.3
+1

@@ -1,0 +1,10 @@
+{'accountsList': 'U2251402'}
+{'orderId': 1}
+{'tickerId': 1002, 'price': 157.96, 'canAutoExecute': 1, 'field': 1}
+<tickPrice tickerId=1002, field=1, price=157.96, canAutoExecute=1>
+{'tickerId': 1002, 'size': 64, 'field': 0}
+{'tickerId': 1002, 'price': 157.98, 'canAutoExecute': 1, 'field': 2}
+<tickPrice tickerId=1002, field=2, price=157.98, canAutoExecute=1>
+{'tickerId': 1002, 'size': 23, 'field': 3}
+{'tickerId': 1002, 'size': 64, 'field': 0}
+{'tickerId': 1002, 'size': 23, 'field': 3}

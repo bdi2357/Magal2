@@ -1,0 +1,21 @@
+AAPL,bid: -1.0
+0
+AAPL,ask:-1.0
+0
+0
+0
+0
+3
+AAPL,bid: -1.0
+0
+AAPL,ask:-1.0
+0
+0
+0
+3
+AAPL,bid: -1.0
+0
+AAPL,ask:-1.0
+0
+0
+0

@@ -1,0 +1,170 @@
+START
+
+QQQ
+{'accountsList': 'U2251402'}
+{'orderId': 1}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 1, 'operation': 0, 'price': 168.01}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 1, 'tickerId': 1002, 'size': 23, 'operation': 0, 'price': 168.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 2, 'tickerId': 1002, 'size': 37, 'operation': 0, 'price': 167.99}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 3, 'tickerId': 1002, 'size': 43, 'operation': 0, 'price': 167.98}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 4, 'tickerId': 1002, 'size': 25, 'operation': 0, 'price': 167.97}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 5, 'tickerId': 1002, 'size': 31, 'operation': 0, 'price': 167.96}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 17, 'operation': 0, 'price': 167.95}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 15, 'operation': 0, 'price': 168.02}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 1, 'tickerId': 1002, 'size': 23, 'operation': 0, 'price': 168.03}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 2, 'tickerId': 1002, 'size': 43, 'operation': 0, 'price': 168.04}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 3, 'tickerId': 1002, 'size': 38, 'operation': 0, 'price': 168.05}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 4, 'tickerId': 1002, 'size': 32, 'operation': 0, 'price': 168.06}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 5, 'tickerId': 1002, 'size': 18, 'operation': 0, 'price': 168.07}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 23, 'operation': 0, 'price': 168.08}
+{'marketMaker': None, 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 10, 'operation': 1, 'price': 168.01}
+{'marketMaker': None, 'side': 0, 'position': 4, 'tickerId': 1002, 'size': 24, 'operation': 1, 'price': 168.06}
+{'marketMaker': None, 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 1, 'operation': 1, 'price': 168.01}
+{'marketMaker': None, 'side': 1, 'position': 1, 'tickerId': 1002, 'size': 15, 'operation': 1, 'price': 168.0}
+{'marketMaker': None, 'side': 0, 'position': 4, 'tickerId': 1002, 'size': 32, 'operation': 1, 'price': 168.06}
+{'marketMaker': None, 'side': 0, 'position': 1, 'tickerId': 1002, 'size': 35, 'operation': 1, 'price': 168.03}
+{'marketMaker': None, 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 23, 'operation': 0, 'price': 167.94}
+{'marketMaker': None, 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 9, 'operation': 1, 'price': 168.0}
+{'marketMaker': None, 'side': 1, 'position': 1, 'tickerId': 1002, 'size': 29, 'operation': 1, 'price': 167.99}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 9, 'operation': 0, 'price': 168.01}
+{'marketMaker': None, 'side': 1, 'position': 3, 'tickerId': 1002, 'size': 37, 'operation': 1, 'price': 167.97}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 23, 'operation': 0, 'price': 168.08}
+{'marketMaker': None, 'side': 0, 'position': 3, 'tickerId': 1002, 'size': 26, 'operation': 1, 'price': 168.05}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 9, 'operation': 0, 'price': 168.01}
+{'marketMaker': None, 'side': 1, 'position': 1, 'tickerId': 1002, 'size': 31, 'operation': 1, 'price': 168.0}
+{'marketMaker': None, 'side': 1, 'position': 4, 'tickerId': 1002, 'size': 25, 'operation': 1, 'price': 167.97}
+{'marketMaker': None, 'side': 1, 'position': 5, 'tickerId': 1002, 'size': 23, 'operation': 1, 'price': 167.96}
+{'marketMaker': None, 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 25, 'operation': 1, 'price': 167.95}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 14, 'operation': 0, 'price': 168.09}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 27, 'operation': 1, 'price': 168.03}
+{'marketMaker': None, 'side': 0, 'position': 2, 'tickerId': 1002, 'size': 38, 'operation': 1, 'price': 168.05}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 6, 'operation': 0, 'price': 168.02}
+{'marketMaker': None, 'side': 1, 'position': 1, 'tickerId': 1002, 'size': 23, 'operation': 1, 'price': 168.0}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 15, 'operation': 1, 'price': 168.02}
+{'marketMaker': None, 'side': 0, 'position': 5, 'tickerId': 1002, 'size': 26, 'operation': 1, 'price': 168.07}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 6, 'operation': 1, 'price': 168.02}
+{'tickerId': 1002, 'price': 168.08, 'canAutoExecute': 1, 'field': 1}
+<tickPrice tickerId=1002, field=1, price=168.08, canAutoExecute=1>
+{'tickerId': 1002, 'size': 62, 'field': 0}
+{'tickerId': 1002, 'price': 168.09, 'canAutoExecute': 1, 'field': 2}
+<tickPrice tickerId=1002, field=2, price=168.09, canAutoExecute=1>
+{'tickerId': 1002, 'size': 8, 'field': 3}
+{'tickerId': 1002, 'size': 62, 'field': 0}
+{'tickerId': 1002, 'size': 8, 'field': 3}
+{'tickerId': 1002, 'price': 168.01, 'canAutoExecute': 1, 'field': 1}
+<tickPrice tickerId=1002, field=1, price=168.01, canAutoExecute=1>
+{'tickerId': 1002, 'size': 9, 'field': 0}
+{'tickerId': 1002, 'price': 168.02, 'canAutoExecute': 1, 'field': 2}
+<tickPrice tickerId=1002, field=2, price=168.02, canAutoExecute=1>
+{'tickerId': 1002, 'size': 6, 'field': 3}
+{'tickerId': 1002, 'size': 9, 'field': 0}
+{'tickerId': 1002, 'size': 6, 'field': 3}
+{'value': '1517518825', 'tickerId': 1002, 'tickType': 45}
+{'tickerId': 1002, 'price': 168.02, 'canAutoExecute': 0, 'field': 4}
+<tickPrice tickerId=1002, field=4, price=168.02, canAutoExecute=0>
+{'tickerId': 1002, 'size': 9, 'field': 5}
+{'tickerId': 1002, 'size': 9, 'field': 5}
+{'tickerId': 1002, 'size': 334447, 'field': 8}
+{'tickerId': 1002, 'price': 169.73, 'canAutoExecute': 0, 'field': 6}
+{'tickerId': 1002, 'price': 167.42, 'canAutoExecute': 0, 'field': 7}
+{'tickerId': 1002, 'price': 169.4, 'canAutoExecute': 0, 'field': 9}
+{'tickerId': 1002, 'price': 168.12, 'canAutoExecute': 0, 'field': 14}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 15, 'operation': 0, 'price': 168.02}
+{'marketMaker': None, 'side': 1, 'position': 2, 'tickerId': 1002, 'size': 35, 'operation': 1, 'price': 168.0}
+{'marketMaker': None, 'side': 1, 'position': 3, 'tickerId': 1002, 'size': 37, 'operation': 1, 'price': 167.99}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 14, 'operation': 0, 'price': 168.09}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 9, 'operation': 1, 'price': 168.03}
+{'marketMaker': None, 'side': 0, 'position': 3, 'tickerId': 1002, 'size': 44, 'operation': 1, 'price': 168.06}
+{'marketMaker': None, 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 17, 'operation': 0, 'price': 167.95}
+{'marketMaker': None, 'side': 1, 'position': 1, 'tickerId': 1002, 'size': 43, 'operation': 1, 'price': 168.0}
+{'marketMaker': None, 'side': 1, 'position': 3, 'tickerId': 1002, 'size': 31, 'operation': 1, 'price': 167.98}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 6, 'operation': 0, 'price': 168.02}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 9, 'operation': 0, 'price': 168.02}
+{'marketMaker': None, 'side': 1, 'position': 4, 'tickerId': 1002, 'size': 43, 'operation': 1, 'price': 167.98}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 14, 'operation': 0, 'price': 168.09}
+{'marketMaker': None, 'side': 0, 'position': 3, 'tickerId': 1002, 'size': 32, 'operation': 1, 'price': 168.06}
+{'marketMaker': None, 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 17, 'operation': 0, 'price': 167.95}
+{'marketMaker': None, 'side': 1, 'position': 1, 'tickerId': 1002, 'size': 27, 'operation': 1, 'price': 168.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 15, 'operation': 0, 'price': 168.02}
+{'marketMaker': None, 'side': 0, 'position': 1, 'tickerId': 1002, 'size': 17, 'operation': 1, 'price': 168.03}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 6, 'operation': 1, 'price': 168.02}
+{'marketMaker': None, 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 23, 'operation': 0, 'price': 167.94}
+{'marketMaker': None, 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 35, 'operation': 1, 'price': 168.0}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 15, 'operation': 1, 'price': 168.02}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 9, 'operation': 0, 'price': 168.01}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 6, 'operation': 1, 'price': 168.02}
+{'marketMaker': None, 'side': 0, 'position': 1, 'tickerId': 1002, 'size': 9, 'operation': 1, 'price': 168.03}
+{'marketMaker': None, 'side': 1, 'position': 5, 'tickerId': 1002, 'size': 31, 'operation': 1, 'price': 167.96}
+{'marketMaker': None, 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 14, 'operation': 0, 'price': 168.09}
+{'tickerId': 1002, 'price': 168.03, 'canAutoExecute': 1, 'field': 2}
+<tickPrice tickerId=1002, field=2, price=168.03, canAutoExecute=1>
+{'tickerId': 1002, 'size': 9, 'field': 3}
+{'tickerId': 1002, 'size': 9, 'field': 3}
+
+AAPL
+{'accountsList': 'U2251402'}
+{'orderId': 1}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 0, 'tickerId': 1002, 'size': 1, 'operation': 0, 'price': 167.4}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 1, 'tickerId': 1002, 'size': 1, 'operation': 0, 'price': 167.39}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 2, 'tickerId': 1002, 'size': 3, 'operation': 0, 'price': 167.26}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 3, 'tickerId': 1002, 'size': 5, 'operation': 0, 'price': 167.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 4, 'tickerId': 1002, 'size': 1, 'operation': 0, 'price': 166.99}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 5, 'tickerId': 1002, 'size': 1, 'operation': 0, 'price': 166.88}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 2, 'operation': 0, 'price': 166.85}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 1, 'operation': 0, 'price': 167.7}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 1, 'tickerId': 1002, 'size': 1, 'operation': 0, 'price': 167.8}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 2, 'tickerId': 1002, 'size': 21, 'operation': 0, 'price': 167.89}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 3, 'tickerId': 1002, 'size': 6, 'operation': 0, 'price': 167.98}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 4, 'tickerId': 1002, 'size': 10, 'operation': 0, 'price': 168.13}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 5, 'tickerId': 1002, 'size': 6, 'operation': 0, 'price': 168.25}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 8, 'operation': 0, 'price': 168.3}
+{'marketMaker': None, 'side': 1, 'position': 4, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 4, 'operation': 0, 'price': 166.8}
+{'marketMaker': None, 'side': 1, 'position': 4, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 3, 'operation': 0, 'price': 166.71}
+{'marketMaker': None, 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 1, 'position': 6, 'tickerId': 1002, 'size': 3, 'operation': 0, 'price': 166.71}
+{'value': '1517518827', 'tickerId': 1002, 'tickType': 45}
+{'tickerId': 1002, 'price': 167.67, 'canAutoExecute': 0, 'field': 4}
+<tickPrice tickerId=1002, field=4, price=167.67, canAutoExecute=0>
+{'tickerId': 1002, 'size': 6, 'field': 5}
+{'tickerId': 1002, 'size': 6, 'field': 5}
+{'tickerId': 1002, 'size': 338096, 'field': 8}
+{'tickerId': 1002, 'price': 168.62, 'canAutoExecute': 0, 'field': 6}
+{'tickerId': 1002, 'price': 166.76, 'canAutoExecute': 0, 'field': 7}
+{'tickerId': 1002, 'price': 167.43, 'canAutoExecute': 0, 'field': 9}
+{'tickerId': 1002, 'price': 167.25, 'canAutoExecute': 0, 'field': 14}
+{'tickerId': 1002, 'price': 167.4, 'canAutoExecute': 1, 'field': 1}
+<tickPrice tickerId=1002, field=1, price=167.4, canAutoExecute=1>
+{'tickerId': 1002, 'size': 1, 'field': 0}
+{'tickerId': 1002, 'price': 167.7, 'canAutoExecute': 1, 'field': 2}
+<tickPrice tickerId=1002, field=2, price=167.7, canAutoExecute=1>
+{'tickerId': 1002, 'size': 1, 'field': 3}
+{'tickerId': 1002, 'size': 1, 'field': 0}
+{'tickerId': 1002, 'size': 1, 'field': 3}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 6, 'tickerId': 1002, 'size': 0, 'operation': 2, 'price': 0.0}
+{'marketMaker': 'NSDQ', 'side': 0, 'position': 0, 'tickerId': 1002, 'size': 5, 'operation': 0, 'price': 167.67}
+{'value': '1517518829', 'tickerId': 1002, 'tickType': 45}
+{'tickerId': 1002, 'size': 5, 'field': 5}
+{'tickerId': 1002, 'size': 338101, 'field': 8}
+{'tickerId': 1002, 'price': 167.67, 'canAutoExecute': 1, 'field': 2}
+<tickPrice tickerId=1002, field=2, price=167.67, canAutoExecute=1>
+{'tickerId': 1002, 'size': 5, 'field': 3}
+{'tickerId': 1002, 'size': 5, 'field': 3}
